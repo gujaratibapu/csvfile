@@ -23,7 +23,7 @@
 2021-03-01_19:12:36,33,23,૨૩-ઉંચામાળા,1,ST,0,0,0,0,District Panchayat,Tapi
 2021-03-01_19:12:36,33,24,૨૪-વડપાડાનેસુ,1,ST Female,0,0,0,0,District Panchayat,Tapi
 2021-03-01_19:12:36,33,25,૨૫-વાલોડ,1,ST Female,0,0,0,0,District Panchayat,Tapi
-2021-03-01_19:12:36,33,26,૨૬-વેલદા,1,SC,0,0,0,0,District Panchayat,Tapi
+2021-03-01_19:12:36,33,26,૨૬-વેલદા,1,SC,ગુલાબભાઇ,ભારતીય જનતા પાર્ટી,0,બિન હરીફ,District Panchayat,Tapi
 2021-03-01_19:12:41,205,1,૧-ભીલજાંબોલી,1,ST,0,0,0,0,Taluka Panchayat,Nizar
 2021-03-01_19:12:41,205,2,૨-બોરદા,1,ST,0,0,0,0,Taluka Panchayat,Nizar
 2021-03-01_19:12:41,205,3,૩-હરદુલી દિગર,1,OBC Female,પ્રમિલાબેન ગુલાબભાઇ કોળી,ભારતીય જનતા પાર્ટી,0,બિન હરીફ,Taluka Panchayat,Nizar
@@ -48,7 +48,7 @@
 2021-03-01_19:12:41,206,6,૬-કરોડ,1,ST Female,0,0,0,0,Taluka Panchayat,Uchchhal
 2021-03-01_19:12:41,206,7,૭-કટાસવાણ,1,ST Female,0,0,0,0,Taluka Panchayat,Uchchhal
 2021-03-01_19:12:41,206,8,૮-ખાબદા,1,ST,0,0,0,0,Taluka Panchayat,Uchchhal
-2021-03-01_19:12:41,206,9,૯-મીરકોટ,1,ST Female,0,0,0,0,Taluka Panchayat,Uchchhal
+2021-03-01_19:12:41,206,9,૯-મીરકોટ,1,ST Female,Madhav,ભારતીય જનતા પાર્ટી,0,0,Taluka Panchayat,Uchchhal
 2021-03-01_19:12:41,206,10,૧૦-મોગરણ,1,ST,0,0,0,0,Taluka Panchayat,Uchchhal
 2021-03-01_19:12:41,206,11,૧૧-મોહિની-૧,1,ST,0,0,0,0,Taluka Panchayat,Uchchhal
 2021-03-01_19:12:41,206,12,૧૨-મોહિની-૨,1,ST Female,0,0,0,0,Taluka Panchayat,Uchchhal
@@ -110,7 +110,7 @@
 2021-03-01_19:12:41,209,16,૧૬-ઉમરવાવનજીક,1,ST,0,0,0,0,Taluka Panchayat,Dolvan
 2021-03-01_19:12:41,210,1,૧-બહુરૂપા,1,ST Female,0,0,0,0,Taluka Panchayat,Kukarmunda
 2021-03-01_19:12:41,210,2,૨-બાલદા,1,SC,0,0,0,0,Taluka Panchayat,Kukarmunda
-2021-03-01_19:12:41,210,3,૩-બાલંબા,1,ST Female,0,0,0,0,Taluka Panchayat,Kukarmunda
+2021-03-01_19:12:41,210,3,૩-બાલંબા,1,ST Female,Jaymal,ભારતીય જનતા પાર્ટી,0,બિન હરીફ,Taluka Panchayat,Kukarmunda
 2021-03-01_19:12:41,210,4,૪-ચોખીઆમલી,1,ST Female,0,0,0,0,Taluka Panchayat,Kukarmunda
 2021-03-01_19:12:41,210,5,૫-ડાબરીઆંબા(ગંગથા),1,ST,0,0,0,0,Taluka Panchayat,Kukarmunda
 2021-03-01_19:12:41,210,6,૬-ફુલવાડી-૧,1,ST Female,0,0,0,0,Taluka Panchayat,Kukarmunda
@@ -163,7 +163,7 @@
 2021-03-01_19:12:42,44,4,વોર્ડ-4,1,ST Female,0,0,0,0,Nagarpalika,Vyara
 2021-03-01_19:12:42,44,4,વોર્ડ-4,2,General Female,0,0,0,0,Nagarpalika,Vyara
 2021-03-01_19:12:42,44,4,વોર્ડ-4,3,ST,0,0,0,0,Nagarpalika,Vyara
-2021-03-01_19:12:42,44,4,વોર્ડ-4,4,General,0,0,0,0,Nagarpalika,Vyara
+2021-03-01_19:12:42,44,4,વોર્ડ-4,4,General,Ishaq Ahmed,ભારતીય રાષ્ટ્રિય કોંગ્રેસ,0,બિન હરીફ,Nagarpalika,Vyara
 2021-03-01_19:12:42,44,5,વોર્ડ-5,1,ST Female,0,0,0,0,Nagarpalika,Vyara
 2021-03-01_19:12:42,44,5,વોર્ડ-5,2,General Female,0,0,0,0,Nagarpalika,Vyara
 2021-03-01_19:12:42,44,5,વોર્ડ-5,3,OBC,0,0,0,0,Nagarpalika,Vyara
@@ -171,8 +171,8 @@
 2021-03-01_19:12:42,44,6,વોર્ડ-6,1,OBC Female,0,0,0,0,Nagarpalika,Vyara
 2021-03-01_19:12:42,44,6,વોર્ડ-6,2,General Female,0,0,0,0,Nagarpalika,Vyara
 2021-03-01_19:12:42,44,6,વોર્ડ-6,3,ST,0,0,0,0,Nagarpalika,Vyara
-2021-03-01_19:12:42,44,6,વોર્ડ-6,4,General,0,0,0,0,Nagarpalika,Vyara
+2021-03-01_19:12:42,44,6,વોર્ડ-6,4,General,0,0,0,બિન હરીફ,Nagarpalika,Vyara
 2021-03-01_19:12:42,44,7,વોર્ડ-7,1,OBC Female,0,0,0,0,Nagarpalika,Vyara
 2021-03-01_19:12:42,44,7,વોર્ડ-7,2,General Female,0,0,0,0,Nagarpalika,Vyara
 2021-03-01_19:12:42,44,7,વોર્ડ-7,3,ST,0,0,0,0,Nagarpalika,Vyara
-2021-03-01_19:12:42,44,7,વોર્ડ-7,4,General,0,0,0,0,Nagarpalika,Vyara
+2021-03-01_19:12:42,44,7,વોર્ડ-7,4,General,Suthar,ભારતીય રાષ્ટ્રિય કોંગ્રેસ,0,બિન હરીફ,Nagarpalika,Vyara
